@@ -1,2 +1,2 @@
 # youtube-cone
-youtube-cone by Alejandro Zambrano
+youtube-clone by Alejandro Zambrano
