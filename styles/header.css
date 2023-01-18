@@ -8,6 +8,7 @@
     top: 0;
     left: 0;
     right: 0;
+    z-index: 2;
 
     background-color: white;
     border-bottom-width: 1px;
@@ -104,8 +105,24 @@
   width: 23px;
 }
 
+.notification-icon-contianer {
+    position: relative;
+}
+
 .notifications {
-    width: 25px;
+   width: 25px;
+}
+
+.notifications-count {
+    background-color: #C70100;
+    color: aliceblue;
+    border-radius: 10px;
+    position: absolute;
+    top: -2px;
+    right: -6px;
+    font-family: Roboto, Arial;
+    font-size: 11px;
+    padding: 2px 6px 2px 6px;
 }
 
 .my-channel {

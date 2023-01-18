@@ -25,8 +25,21 @@
 
 .video-row {
     margin-bottom: 15px ;
+    position: relative;
 }
 
+.video-time {
+    font-family: Roboto, Arial;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 4px 2px 4px 2px;
+    background-color: black;
+    color: aliceblue;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    border-radius: 2px;
+}
 .video-author, 
 .video-stats{
     font-size: 12px;
