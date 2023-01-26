@@ -60,3 +60,9 @@
     column-gap: 14px;
     row-gap: 30px;
 }
+
+@media (max-width: 600px) {
+    .video-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+}
