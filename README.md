@@ -1,3 +1,3 @@
-# youtube-cone
+# youtube-clone
 youtube-clone by Alejandro Zambrano
 e-mail: alejandro_zambrano_@hotmail.com just let know about your clone....
