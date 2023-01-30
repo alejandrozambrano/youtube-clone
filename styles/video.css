@@ -35,7 +35,7 @@
     font-family: Roboto, Arial;
     font-size: 12px;
     font-weight: 500;
-    padding: 4px 2px 4px 2px;
+    padding: 4px;
     background-color: black;
     color: aliceblue;
     position: absolute;
@@ -61,9 +61,10 @@
     row-gap: 30px;
 }
 
+
 @media (max-width: 750px) {
     .video-grid {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
     }
 }
 
